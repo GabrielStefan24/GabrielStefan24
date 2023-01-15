@@ -13,3 +13,12 @@
 </h1>
 </div>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="200" height="200"/>
+</div>
+
+---
+
+### :man_technologist:I am an aspiring Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bucharest.
+- :telescope: I’m currently learning   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="25" height="25"/>&nbsp; and <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="25" height="25"/>&nbsp;
+- :
