@@ -20,7 +20,7 @@
 ---
 
 # 🏄‍♂️  Sirbu Gabriel 
-### I am an aspiring Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bucharest.
+### I am Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bucharest.
 - :telescope: I’m currently learning  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="25" height="25"/>&nbsp; and <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="25" height="25"/>
 - :seedling: All of my projects are available at  <a href="https://www.gabrieldevs.com">www.gabrieldevs.com</a>
 - :zap: In my free time i solve problems on <a href="https://www.leetcode.com">Leetcode</a>
