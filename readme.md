@@ -22,7 +22,7 @@
 # 🏄‍♂️  Sirbu Gabriel 
 ### I am Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bucharest.
 - :telescope: I’m currently learning React & Next.js.
-- :seedling: All of my projects are available at  <a href="https://www.gabrieldevs.com">www.gabrieldevs.com</a>
+- :seedling: All of my projects are available at  <a href="https://gabrieldevs.com/">www.gabrieldevs.com</a>
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-sirbu-94a908236/)
 
 ---
